@@ -1,0 +1,4 @@
+[08-Dec-2020 08:50:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/stpcompu/test.stpcomputereducation.com/admin/pages/all_course.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/stpcompu/test.stpcomputereducation.com/admin/pages/all_course.php on line 21

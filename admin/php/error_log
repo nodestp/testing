@@ -1,0 +1,5 @@
+[08-Dec-2020 08:46:51 America/New_York] PHP Warning:  unlink(../../course_pic/Graphic-Designing1.jpg): No such file or directory in /home/stpcompu/test.stpcomputereducation.com/admin/php/s_update_course.php on line 30
+[08-Dec-2020 08:48:35 America/New_York] PHP Warning:  unlink(../../course_pic/Graphic-Designing1.jpg): No such file or directory in /home/stpcompu/test.stpcomputereducation.com/admin/php/s_update_course.php on line 30
+[08-Dec-2020 08:49:40 America/New_York] PHP Warning:  unlink(../../course_pic/Office_logos-2.jpg): No such file or directory in /home/stpcompu/test.stpcomputereducation.com/admin/php/s_update_course.php on line 30
+[30-Dec-2020 03:34:04 America/New_York] PHP Warning:  unlink(../../course_pic/mockup 3.jpg): No such file or directory in /home/stpcompu/test.stpcomputereducation.com/admin/php/s_update_course.php on line 30
+[30-Dec-2020 03:34:04 America/New_York] PHP Warning:  unlink(../../course_pic/mockup 3.jpg): No such file or directory in /home/stpcompu/test.stpcomputereducation.com/admin/php/s_update_course.php on line 30
